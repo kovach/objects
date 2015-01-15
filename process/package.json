@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "underscore": "",
+    "loop-obj": ""
+  },
+  "name": "process-obj",
+  "version": "0.0.1",
+  "main": "process.js"
+}

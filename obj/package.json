@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "underscore": ""
+  },
+  "name": "loop-obj",
+  "version": "0.0.1",
+  "main": "obj.js"
+}

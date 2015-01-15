@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "underscore": "",
+    "loop-obj": ""
+  },
+  "name": "mouse-obj",
+  "version": "0.0.1",
+  "main": "mouse.js"
+}

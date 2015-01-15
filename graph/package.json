@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "underscore": "",
+    "loop-obj": "",
+    "mouse-obj": "",
+    "mori": ""
+  },
+  "name": "graph-obj",
+  "version": "0.0.1",
+  "main": "graph.js"
+}
